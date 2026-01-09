@@ -1,0 +1,8 @@
+# Ignorar o arquivo .env (para configurações de ambiente)
+.env
+
+# Ignora arquivo de informações gerais do projeto
+info.txt
+
+# Ignora pasta node_modules
+/node_modules
